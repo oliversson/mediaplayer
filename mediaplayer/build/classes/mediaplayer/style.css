@@ -1,0 +1,67 @@
+.button {
+    -fx-background-color: transparent;
+}
+
+#openFile {
+    -fx-background-image: url("../images/folder.png");
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#playButton {
+    -fx-background-image: url("../images/play.png");
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#pauseButton {
+    -fx-background-image: url("../images/pause.png");
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#stopButton {
+    -fx-background-image: url("../images/stop.png");
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#slowerBackward {
+    -fx-background-image: url("../images/rewind.png");
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#backwardButton {
+    -fx-background-image: url("../images/backward.png");
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#fastButton {
+    -fx-background-image: url("../images/fastButton.png");
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#fastforwardButton {
+    -fx-background-image: url(../images/fast-forward.png);
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#exitButton {
+    -fx-background-image: url("../images/delete.png");
+    -fx-background-size: 24 24;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
