@@ -1,1 +1,1 @@
-A futtatható .jar fájl a "dist mappában található", futtatása csak a környezeti változók beállítása után lehetséges!
+A futtathatÃ³ ".jar" fÃ¡jl a "dist" mappÃ¡ban talÃ¡lhatÃ³, futtatÃ¡sa csak a kÃ¶rnyezeti vÃ¡ltozÃ³k beÃ¡llÃ­tÃ¡sa utÃ¡n lehetsÃ©ges!
